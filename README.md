@@ -6,5 +6,4 @@
 
 测试的版本是windows_win_3.1.18.12
 
-![./test.png]()
-
+![](./blob/master/test.png)
