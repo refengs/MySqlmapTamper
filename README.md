@@ -6,4 +6,4 @@
 
 测试的版本是windows_win_3.1.18.12
 
-![](./test.png)
+![Alt text](https://github.com/refengs/MySqlmapTamper/blob/master/test.png)
